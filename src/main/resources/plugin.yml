@@ -1,0 +1,7 @@
+name: StatsAPI
+version: '${project.version}'
+main: me.fedox.statsapi.StatsAPI
+api-version: 1.19
+
+commands:
+  statsapi:
